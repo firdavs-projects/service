@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ustokor/static/css/main.32870f28.chunk.css",
+    "main.js": "/ustokor/static/js/main.c1e1be90.chunk.js",
+    "main.js.map": "/ustokor/static/js/main.c1e1be90.chunk.js.map",
+    "runtime-main.js": "/ustokor/static/js/runtime-main.49a98262.js",
+    "runtime-main.js.map": "/ustokor/static/js/runtime-main.49a98262.js.map",
+    "static/js/2.a3480d3f.chunk.js": "/ustokor/static/js/2.a3480d3f.chunk.js",
+    "static/js/2.a3480d3f.chunk.js.map": "/ustokor/static/js/2.a3480d3f.chunk.js.map",
+    "static/js/3.61b6c6f3.chunk.js": "/ustokor/static/js/3.61b6c6f3.chunk.js",
+    "static/js/3.61b6c6f3.chunk.js.map": "/ustokor/static/js/3.61b6c6f3.chunk.js.map",
+    "index.html": "/ustokor/index.html",
+    "static/css/main.32870f28.chunk.css.map": "/ustokor/static/css/main.32870f28.chunk.css.map",
+    "static/js/2.a3480d3f.chunk.js.LICENSE.txt": "/ustokor/static/js/2.a3480d3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a98262.js",
+    "static/js/2.a3480d3f.chunk.js",
+    "static/css/main.32870f28.chunk.css",
+    "static/js/main.c1e1be90.chunk.js"
+  ]
+}
